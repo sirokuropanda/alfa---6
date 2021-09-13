@@ -147,7 +147,7 @@ button {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #000;
   margin-bottom: 20px;
   height: 100%;
 }
@@ -316,7 +316,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #fff;
+  background-color: #000;
   height: 2.6px;
   width: 190px;
 }
@@ -365,7 +365,7 @@ button {
 * header
 *****************/
 .header {
-  background-color: #fff;
+  background-color: #000;
   height: 60px;
 }
 
@@ -430,7 +430,7 @@ button {
 }
 
 .stage-column__container + .stage-column__container {
-  border-top: 2px solid #fff;
+  border-top: 2px solid #000;
 }
 
 .answer {
@@ -474,7 +474,7 @@ button {
   display: block;
   width: 183px;
   height: 2px;
-  background-color: #fff;
+  background-color: #000;
   bottom: 0;
   left: calc(50% - (183px/2));
 }
