@@ -316,7 +316,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #000;
+  background-color: #fff;
   height: 2.6px;
   width: 190px;
 }
@@ -365,7 +365,7 @@ button {
 * header
 *****************/
 .header {
-  background-color: #000;
+  background-color: #fff;
   height: 60px;
 }
 
@@ -430,7 +430,7 @@ button {
 }
 
 .stage-column__container + .stage-column__container {
-  border-top: 2px solid #000;
+  border-top: 2px solid #fff;
 }
 
 .answer {
